@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\RGU\\",
+  "WorkspaceRootPath": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\RGU\\lab1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E80A8A-7114-4634-9B4E-0B6789B3D593}|lab1\\lab1.vcxproj|solutionrelative:lab1\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,11 +62,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "1.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\1.c",
+              "RelativeDocumentMoniker": "lab1\\1.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\1.c",
+              "RelativeToolTip": "lab1\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T18:26:09.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\20.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\20.c",
               "RelativeDocumentMoniker": "lab1\\20.c",
-              "ToolTip": "D:\\RGU\\lab1\\20.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\20.c",
               "RelativeToolTip": "lab1\\20.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -76,21 +89,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "10.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\10.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\10.c",
               "RelativeDocumentMoniker": "lab1\\10.c",
-              "ToolTip": "D:\\RGU\\lab1\\10.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\10.c",
               "RelativeToolTip": "lab1\\10.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-27T12:06:35.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "9.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\9.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\9.c",
               "RelativeDocumentMoniker": "lab1\\9.c",
-              "ToolTip": "D:\\RGU\\lab1\\9.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\9.c",
               "RelativeToolTip": "lab1\\9.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -98,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "7.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\7.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\7.c",
               "RelativeDocumentMoniker": "lab1\\7.c",
-              "ToolTip": "D:\\RGU\\lab1\\7.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\7.c",
               "RelativeToolTip": "lab1\\7.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -110,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "4.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\4.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\4.c",
               "RelativeDocumentMoniker": "lab1\\4.c",
-              "ToolTip": "D:\\RGU\\lab1\\4.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\4.c",
               "RelativeToolTip": "lab1\\4.c",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -122,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "3.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\3.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\3.c",
               "RelativeDocumentMoniker": "lab1\\3.c",
-              "ToolTip": "D:\\RGU\\lab1\\3.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\3.c",
               "RelativeToolTip": "lab1\\3.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -134,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "2.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\2.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\2.c",
               "RelativeDocumentMoniker": "lab1\\2.c",
-              "ToolTip": "D:\\RGU\\lab1\\2.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\2.c",
               "RelativeToolTip": "lab1\\2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -146,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "11.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\11.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\11.c",
               "RelativeDocumentMoniker": "lab1\\11.c",
-              "ToolTip": "D:\\RGU\\lab1\\11.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\11.c",
               "RelativeToolTip": "lab1\\11.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -158,40 +171,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "13.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\13.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\13.c",
               "RelativeDocumentMoniker": "lab1\\13.c",
-              "ToolTip": "D:\\RGU\\lab1\\13.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\13.c",
               "RelativeToolTip": "lab1\\13.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-27T12:06:01.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T12:06:01.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "8.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\8.c",
+              "DocumentMoniker": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\8.c",
               "RelativeDocumentMoniker": "lab1\\8.c",
-              "ToolTip": "D:\\RGU\\lab1\\8.c",
+              "ToolTip": "D:\\Stepan Orlov\\programming university\\RGU\\lab1\\lab1\\8.c",
               "RelativeToolTip": "lab1\\8.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-27T12:05:58.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "1.c",
-              "DocumentMoniker": "D:\\RGU\\lab1\\1.c",
-              "RelativeDocumentMoniker": "lab1\\1.c",
-              "ToolTip": "D:\\RGU\\lab1\\1.c",
-              "RelativeToolTip": "lab1\\1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-26T18:26:09.435Z"
             }
           ]
         }

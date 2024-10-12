@@ -11,20 +11,34 @@
 //	return res;
 //}
 //
-//void printb(unsigned int v) {
-//	unsigned int i, s = 1 << ((sizeof(v) << 3) - 1); 
-//	for (i = s; i; i >>= 1) printf("%d", v & i || 0);
+//void printb(int n) {
+//	for (int i = 31; i >= 0; i--) {
+//		int bit = (n >> i) & 1;
+//		printf("%d", bit);
+//		if (i % 8 == 0) printf("%s", " ");
+//	}
+//	printf("\n");
+//}
+// 
+//int numPlaces(int n) {
+//	int retVal = 0;
+//
+//	while (n) {
+//		retVal += 1;
+//		n >>= 1;
+//	}
+//
+//	return retVal;
 //}
 //
 //int main() {
 //
 //	int n, i, len, a = 0;
-//	printf("Enter number: ");
+//	printf("Enter number (decimal): ");
 //	scanf("%d", &n);
 //	printf("Enter i: ");
 //	scanf("%d", &i);
-//	printf("Enter len: ");
-//	scanf("%d", &len);
+//	len = numPlaces(n);
 //	a = (n >> i) & ones_line(len - 2 * i);
 //	printb(a);
 //	return 0;

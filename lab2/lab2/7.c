@@ -13,9 +13,9 @@
 //	int i, j, n = 0;
 //	printf("Enter number: ");
 //	scanf("%d", &n);
-//	printf("Enter number of i bit: ");
+//	printf("Enter number of i bit (0-3): ");
 //	scanf("%d", &i);
-//	printf("Enter number of j bit: ");
+//	printf("Enter number of j bit (0-3): ");
 //	scanf("%d", &j);
 //
 //	printf("\nStart number: %d\n", n);
